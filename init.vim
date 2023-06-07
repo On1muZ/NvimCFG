@@ -28,7 +28,7 @@ colorscheme gruvbox
 
 nnoremap <space>e :NERDTreeFocus<CR>
 nnoremap <space>r :NERDTreeClose<CR>
-nnoremap <C-s> :w<CR>:so<CR>
+nnoremap <C-s> :w<CR>
 nnoremap <space>d :TagbarToggle<CR>
 nnoremap <space>c :TagbarClose<CR>
 nnoremap q1 :q<CR>
